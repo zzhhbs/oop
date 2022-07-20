@@ -10,6 +10,7 @@ public class Test1 {
         /*1.先思考如何计算一个班级的学生平均分*/
         int score=0;
         int sum=0;
+        int m=2;
         for(int j=1;j<=3;j++){
             System.out.println("请输入第"+j+"个班级的成绩");
              sum=0;
